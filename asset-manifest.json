@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/redux_todo_list_01/static/css/main.df6f400d.chunk.css",
-    "main.js": "/redux_todo_list_01/static/js/main.2f1591c6.chunk.js",
-    "main.js.map": "/redux_todo_list_01/static/js/main.2f1591c6.chunk.js.map",
-    "runtime-main.js": "/redux_todo_list_01/static/js/runtime-main.c1a60da7.js",
-    "runtime-main.js.map": "/redux_todo_list_01/static/js/runtime-main.c1a60da7.js.map",
-    "static/js/2.0c6d633d.chunk.js": "/redux_todo_list_01/static/js/2.0c6d633d.chunk.js",
-    "static/js/2.0c6d633d.chunk.js.map": "/redux_todo_list_01/static/js/2.0c6d633d.chunk.js.map",
-    "static/js/3.cc21e536.chunk.js": "/redux_todo_list_01/static/js/3.cc21e536.chunk.js",
-    "static/js/3.cc21e536.chunk.js.map": "/redux_todo_list_01/static/js/3.cc21e536.chunk.js.map",
-    "index.html": "/redux_todo_list_01/index.html",
-    "static/css/main.df6f400d.chunk.css.map": "/redux_todo_list_01/static/css/main.df6f400d.chunk.css.map",
-    "static/js/2.0c6d633d.chunk.js.LICENSE.txt": "/redux_todo_list_01/static/js/2.0c6d633d.chunk.js.LICENSE.txt"
+    "main.css": "/HongYin/redux_todo_list_01/static/css/main.df6f400d.chunk.css",
+    "main.js": "/HongYin/redux_todo_list_01/static/js/main.2f1591c6.chunk.js",
+    "main.js.map": "/HongYin/redux_todo_list_01/static/js/main.2f1591c6.chunk.js.map",
+    "runtime-main.js": "/HongYin/redux_todo_list_01/static/js/runtime-main.36460b39.js",
+    "runtime-main.js.map": "/HongYin/redux_todo_list_01/static/js/runtime-main.36460b39.js.map",
+    "static/js/2.0c6d633d.chunk.js": "/HongYin/redux_todo_list_01/static/js/2.0c6d633d.chunk.js",
+    "static/js/2.0c6d633d.chunk.js.map": "/HongYin/redux_todo_list_01/static/js/2.0c6d633d.chunk.js.map",
+    "static/js/3.cc21e536.chunk.js": "/HongYin/redux_todo_list_01/static/js/3.cc21e536.chunk.js",
+    "static/js/3.cc21e536.chunk.js.map": "/HongYin/redux_todo_list_01/static/js/3.cc21e536.chunk.js.map",
+    "index.html": "/HongYin/redux_todo_list_01/index.html",
+    "static/css/main.df6f400d.chunk.css.map": "/HongYin/redux_todo_list_01/static/css/main.df6f400d.chunk.css.map",
+    "static/js/2.0c6d633d.chunk.js.LICENSE.txt": "/HongYin/redux_todo_list_01/static/js/2.0c6d633d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1a60da7.js",
+    "static/js/runtime-main.36460b39.js",
     "static/js/2.0c6d633d.chunk.js",
     "static/css/main.df6f400d.chunk.css",
     "static/js/main.2f1591c6.chunk.js"
